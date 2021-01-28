@@ -1,7 +1,11 @@
 Archivo de inicialización
 
+
+- Esta es mi característica
+
 - Esta es una característica
 
 - Esta es otra característica
 
 - ...
+
